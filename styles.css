@@ -1,0 +1,21 @@
+body {
+  background-color: #3498db;
+}
+
+.logoImage img {
+  width: 60vw;
+}
+
+.logoText {
+  font-size: 10vw;
+}
+
+.inputArea {
+  font-size: 4vw;
+  text-align: center;
+}
+
+#scanner {
+  width: 80vw;
+  height: 50vh;
+}
